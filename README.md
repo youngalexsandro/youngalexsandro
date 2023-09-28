@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jovemalexsandro
+- 👋 Hi, I’m Alexsandro Rodirgues
 - 👀 I’m interested in develop my skills
-- 🌱 I’m currently learning HTML5 & CSS3
+- 🌱 I’m currently learning Python
 - 📫 How to reach me alexsandrojose1740@gmail.com
 
 <!---
