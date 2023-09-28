@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexsandro Rodirgues
 - 👀 I’m interested in develop my skills
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me alexsandrojose1740@gmail.com
 
 <!---
